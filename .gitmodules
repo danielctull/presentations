@@ -1,9 +1,9 @@
 [submodule "_includes"]
 	path = _includes
-	url = git://github.com/danielctull/site.includes.git
+	url = https://github.com/danielctull/site.includes.git
 [submodule "_layouts"]
 	path = _layouts
-	url = git://github.com/danielctull/site.layouts.git
+	url = https://github.com/danielctull/site.layouts.git
 [submodule "style"]
 	path = style
-	url = git://github.com/danielctull/site.style.git
+	url = https://github.com/danielctull/site.style.git
